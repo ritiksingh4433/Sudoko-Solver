@@ -19,4 +19,4 @@ to discuss what you would like to change.
 
 
 ### Current Maintainer
-- [Dev Bhardwaj](https://github.com/Dev-Bhardwaj123)
+-Ritik Singh
