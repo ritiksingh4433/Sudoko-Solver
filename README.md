@@ -17,6 +17,3 @@ Play the popular japanese puzzle game sudoku and visualize the solution using th
 Pull requests are welcome. For major changes, please open an issue first (if any)
 to discuss what you would like to change.
 
-
-### Current Maintainer
--Ritik Singh
